@@ -1,0 +1,11 @@
+.page-link {
+    cursor: pointer;
+}
+
+.create-task {
+    margin-top: 100px;
+}
+
+td {
+    width: 25%;
+}
